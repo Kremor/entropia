@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "entropia",
+    "icon": "box.png",
+    "version": "1.0.0",
+    "slug": "entropia-texto",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.esime.entropia"
+    },
+    "android": {
+      "package": "com.esime.entropia"
+    }
+  }
+}
